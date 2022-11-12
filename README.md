@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergiuPintilei
 - 👀 I’m interested in web dev
-- 📫 How to reach me [sergiupintilei.com](https://www.sergiupintilei.com/)
+- 📫 How to reach me [sergiupintilei.com](https://www.sergiupintilei.com/) | [@sergiupintilei](https://twitter.com/sergiupintilei)
 
 <!---
 SergiuPintilei/SergiuPintilei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
